@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E24310DA24BC0D21009C2350 /* CircularButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E24310D924BC0D21009C2350 /* CircularButton.swift */; };
 		E256909524B95E8F0004FBC2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E256909424B95E8F0004FBC2 /* AppDelegate.swift */; };
 		E256909724B95E8F0004FBC2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E256909624B95E8F0004FBC2 /* SceneDelegate.swift */; };
 		E256909924B95E8F0004FBC2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E256909824B95E8F0004FBC2 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E24310D924BC0D21009C2350 /* CircularButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularButton.swift; sourceTree = "<group>"; };
 		E256909124B95E8F0004FBC2 /* Simon Says.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Simon Says.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E256909424B95E8F0004FBC2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E256909624B95E8F0004FBC2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				E256909D24B95E920004FBC2 /* Assets.xcassets */,
 				E256909F24B95E920004FBC2 /* LaunchScreen.storyboard */,
 				E25690A224B95E920004FBC2 /* Info.plist */,
+				E24310D924BC0D21009C2350 /* CircularButton.swift */,
 			);
 			path = "Simon Says";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E24310DA24BC0D21009C2350 /* CircularButton.swift in Sources */,
 				E256909924B95E8F0004FBC2 /* ViewController.swift in Sources */,
 				E256909524B95E8F0004FBC2 /* AppDelegate.swift in Sources */,
 				E256909724B95E8F0004FBC2 /* SceneDelegate.swift in Sources */,
